@@ -12,9 +12,6 @@
 - Actualmente estoy aprendiendo a utilizar Git y control de versiones
 - Futuramente Ingeniero en Sistemas
 
-### Busco Colaborar
-- Actualmente me interesa colaborar con alguna empresa que me permita ganar experiencia como programador full stack
-
 ### Mi vision
 - En 10 años me veo como programador full stack y siendo Ingeniero de Sistemas llevando a cabo multiles proyectos que por falta de conocimiento no habia podido llevar a cabo
 
