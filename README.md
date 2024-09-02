@@ -9,7 +9,7 @@
 ### Mis estudios
 - Soy graduado del colegio Francisco Jose de Caldas en el 2023
 - Soy tecnico en mantenimiento de equipos de computo
-- Actualmente estoy aprendiendo a utilizar Git y control de versiones
+- Actualmente estoy aprendiendo a utilizar JavaScript
 - Futuramente Ingeniero en Sistemas
 
 ### Mi vision
