@@ -1,16 +1,11 @@
 - ## Hola soy Miguel Andres Guerrero Martinez 👋
-- ### soy de Colombia
-- ### Naci en cucuta un 19 de Junio del 2005
+- ### soy de Colombia, Naci en cucuta un 19 de Junio del 2005
+- Me interesa el desarrollo web, Aprender nuevos lenguajes de programacion, tecnologias y frameworks
 
-### Mis intereses
-- Me interesa el desarrollo web
-- Aprender nuevos lenguajes de programacion y tecnologias
-
-### Mis estudios
-- Soy graduado del colegio Francisco Jose de Caldas en el 2023
-- Soy tecnico en mantenimiento de equipos de computo
-- Actualmente estoy aprendiendo a utilizar JavaScript
-- Futuramente Ingeniero en Sistemas
+- ### Soy graduado del colegio Francisco Jose de Caldas en el 2023
+- ### Soy tecnico en mantenimiento de equipos de computo
+- ### Actualmente estoy aprendiendo a utilizar JavaScript
+- ### Futuramente Ingeniero en Sistemas
 
 ### Mi vision
 - En 10 años me veo como programador full stack y siendo Ingeniero de Sistemas llevando a cabo multiles proyectos que por falta de conocimiento no habia podido llevar a cabo
@@ -23,9 +18,6 @@
 
 ### Lenguaje Mas utilizado
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero)
-
-### Nivel de actividad
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MiguelAndresGuerrero&theme=react-dark)
 
 <div align="center" >
 <picture>
