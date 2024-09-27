@@ -1,10 +1,10 @@
-# Sobre mí
-- Hola, me llamo Miguel Andres Guerrero Martinez
-- soy de Colombia
-- Naci en cucuta un 19 de Junio del 2005
+- # Hola soy Miguel Andres Guerrero Martinez 👋
+- ## soy de Colombia
+- ### Naci en cucuta un 19 de Junio del 2005
 
 ### Mis intereses
-- Me interesa el desarrollo web y aprender SQL
+- Me interesa el desarrollo web
+- Aprender nuevos lenguajes de programacion y tecnologias
 
 ### Mis estudios
 - Soy graduado del colegio Francisco Jose de Caldas en el 2023
@@ -19,6 +19,7 @@
  ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 [![GitHub followers](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/MiguelAndresGuerrero)
 
