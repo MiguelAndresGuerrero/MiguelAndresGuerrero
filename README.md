@@ -1,5 +1,5 @@
-- # Hola soy Miguel Andres Guerrero Martinez 👋
-- ## soy de Colombia
+- ## Hola soy Miguel Andres Guerrero Martinez 👋
+- ### soy de Colombia
 - ### Naci en cucuta un 19 de Junio del 2005
 
 ### Mis intereses
@@ -24,9 +24,8 @@
 ### Lenguaje Mas utilizado
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero)
 
-### Repositorios Start
-[![GitHub Stars](https://img.shields.io/github/stars/MiguelAndresGuerrero/BlackJack?style=social)](https://github.com/MiguelAndresGuerrero/BlackJack)
-
+### Nivel de actividad
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=MiguelAndresGuerrero&theme=react-dark)
 
 <div align="center" >
 <picture>
