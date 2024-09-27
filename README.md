@@ -25,7 +25,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero)
 
 ### Nivel de actividad
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=MiguelAndresGuerrero&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MiguelAndresGuerrero&theme=react-dark)
 
 <div align="center" >
 <picture>
