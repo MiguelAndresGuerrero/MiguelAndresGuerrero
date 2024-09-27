@@ -25,7 +25,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero)
 
 ### Repositorios Start
-[![GitHub Stars](https://img.shields.io/github/stars/MiguelAndresGuerrero/tu-repositorio?style=social)](https://github.com/MiguelAndresGuerrero/tu-repositorio)
+[![GitHub Stars](https://img.shields.io/github/stars/MiguelAndresGuerrero/BlackJack?style=social)](https://github.com/MiguelAndresGuerrero/BlackJack)
 
 
 <div align="center" >
