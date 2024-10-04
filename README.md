@@ -42,13 +42,13 @@
 Si tu idea es tan genial como la Coca-Cola, ¡no dudes en enviarme un mensaje a:
 [Miguel Guerrero](mailto:Guerreromiguelmartinez@gmail.com.com)!
 
-![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 ¡Estoy abierto a nuevas conexiones! Encuentra mi perfil en LinkedIn: [Miguel Guerrero](https://www.linkedin.com/in/andres-guerrero-175845310/)
 
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Discord! [Miguel Guerrero](https://discordapp.com/users/andres_4673) 🚀🛸
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
 Sigamos el hilo del código y las buenas ideas en Twitter: [Miguel Guerrero](https://x.com/andres_mar36326) 🧵💡
 
 
