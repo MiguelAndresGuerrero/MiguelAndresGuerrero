@@ -2,7 +2,7 @@
 <h2 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
 
 # Hola, soy Miguel Andrés Guerrero Martínez 👋
-### 💻 Desarrollador web en formación | 🚀 Apasionado por la tecnología
+### 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
 #### Soy de Cúcuta, Colombia, nacido el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permiten evolucionar como desarrollador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
 
