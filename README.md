@@ -4,11 +4,11 @@
 # Hola, soy Miguel Andrés Guerrero Martínez 👋
 ### 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
-#### Soy de Cúcuta, Colombia, nacido el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permiten evolucionar como desarrollador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
+#### Soy de Cúcuta, Colombia, nacido el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
 
 #
 ### Mi vision
-### Dentro de 10 años, me visualizo como un desarrollador full-stack y un ingeniero de sistemas altamente capacitado, liderando proyectos complejos y aportando soluciones innovadoras en el ámbito tecnológico. Mi meta es llevar a cabo proyectos que anteriormente no pude realizar debido a la falta de conocimientos, pero con el avance en mis habilidades y experiencias, estará preparado para enfrentar esos desafíos. Aspiro a ser un profesional que contribuya activamente a la creación de nuevas tecnologías y herramientas que faciliten el desarrollo en diferentes industrias.
+### Dentro de 10 años, me visualizo como un desarrollador full-stack y un ingeniero de sistemas altamente capacitado, liderando proyectos complejos y aportando soluciones innovadoras en el ámbito tecnológico. Mi meta es llevar a cabo proyectos que anteriormente no pude realizar debido a la falta de conocimientos, pero con el avance en mis habilidades y experiencias, estare preparado para enfrentar esos desafíos. Aspiro a ser un profesional que contribuya activamente a la creación de nuevas tecnologías y herramientas que faciliten el desarrollo en diferentes industrias.
 
 #
 <div align="center" >
@@ -21,14 +21,14 @@
 
 #
 ### Proyectos destacados
-- [**Rick and Morty Portal Project**](https://miguelandresguerrero.github.io/RickAndMortyAPI/): Implementación de un portal animado con JavaScript y la API de Rick and Morty.
+- [**Rick and Morty**](https://miguelandresguerrero.github.io/RickAndMortyAPI/): Implementación de un portal animado con JavaScript y la API de Rick and Morty.
 - [**MovieAPI**](https://miguelandresguerrero.github.io/Movies_API/): Búsqueda interactiva de Peliculas usando una API
 
 
 
 #
 ### Lenguajes 
- ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-FF5722?style=flat&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-007ACC?style=flat&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -37,7 +37,7 @@
 #
 ### 🤝 Conéctate conmigo
 ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
-Si tu idea es tan genial como la Coca-Cola, ¡no dudes en enviarme un mensaje a:
+Si tu idea es tan genial como el cafe, ¡no dudes en enviarme un mensaje a:
 [Miguel Guerrero](mailto:Guerreromiguelmartinez@gmail.com.com)!
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
