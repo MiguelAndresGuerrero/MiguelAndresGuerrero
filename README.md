@@ -8,7 +8,7 @@
 
 
 # Mi vision
-### Dentro de 10 años, me visualizo como un desarrollador full-stack y un ingeniero de sistemas altamente capacitado, liderando proyectos complejos y aportando soluciones innovadoras en el ámbito tecnológico. Mi meta es llevar a cabo proyectos que anteriormente no pude realizar debido a la falta de conocimientos, pero con el avance en mis habilidades y experiencias, estare preparado para enfrentar esos desafíos. Aspiro a ser un profesional que contribuya activamente a la creación de nuevas tecnologías y herramientas que faciliten el desarrollo en diferentes industrias.
+### Dentro de 10 años, me visualizo como un desarrollador full-stack altamente capacitado, liderando proyectos complejos y aportando soluciones innovadoras en el ámbito tecnológico. Mi meta es llevar a cabo proyectos que anteriormente no pude realizar debido a la falta de conocimientos, pero con el avance en mis habilidades y experiencias, estare preparado para enfrentar esos desafíos. Aspiro a ser un profesional que contribuya activamente a la creación de nuevas tecnologías y herramientas que faciliten el desarrollo en diferentes industrias.
 
 #
 <div align="center" >
