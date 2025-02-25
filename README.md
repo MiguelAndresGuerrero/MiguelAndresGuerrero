@@ -6,8 +6,8 @@
 
 #### Soy de Cúcuta, Colombia, naci el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
 
-#
-### Mi vision
+
+# Mi vision
 ### Dentro de 10 años, me visualizo como un desarrollador full-stack y un ingeniero de sistemas altamente capacitado, liderando proyectos complejos y aportando soluciones innovadoras en el ámbito tecnológico. Mi meta es llevar a cabo proyectos que anteriormente no pude realizar debido a la falta de conocimientos, pero con el avance en mis habilidades y experiencias, estare preparado para enfrentar esos desafíos. Aspiro a ser un profesional que contribuya activamente a la creación de nuevas tecnologías y herramientas que faciliten el desarrollo en diferentes industrias.
 
 #
