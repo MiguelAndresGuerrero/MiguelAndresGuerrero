@@ -21,7 +21,7 @@
 
 #
 ### Proyectos destacados
-- [**Rick and Morty**](https://miguelandresguerrero.github.io/RickAndMortyAPI/): Implementación de un portal animado con JavaScript y la API de Rick and Morty.
+- [**Rick and Morty**](https://miguelandresguerrero.github.io/RickAndMortyAPI/): Implementación de un portal animado con JavaScript y la API de Rick and Morty permitiendo la busqueda de los personajes de la serie y los episodios en los que aparecen
 - [**MovieAPI**](https://miguelandresguerrero.github.io/Movies_API/): Búsqueda interactiva de Peliculas usando una API
 
 
@@ -45,9 +45,6 @@ Si tu idea es tan genial como el cafe, ¡no dudes en enviarme un mensaje a:
 
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Discord! [Miguel Guerrero](https://discordapp.com/users/andres_4673) 🚀🛸
-
-![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
-Sigamos el hilo del código y las buenas ideas en Twitter: [Miguel Guerrero](https://x.com/andres_mar36326) 🧵💡
 
 
 #
