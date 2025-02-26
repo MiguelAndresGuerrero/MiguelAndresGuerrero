@@ -76,6 +76,6 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
 
 <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&layout=compact&theme=radical">
 
-  ![GitHub Contribution Snake](https://github.com/MiguelAndresGuerrero/MiguelAndresGuerrero/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/MiguelAndresGuerrero/MiguelAndresGuerrero/main/assets/github-contribution-snake.svg)
 
 </div>
