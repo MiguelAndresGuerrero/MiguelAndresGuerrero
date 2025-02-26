@@ -4,7 +4,7 @@
 # Hola, soy Miguel Andrés Guerrero Martínez 👋
 ## 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
-## Soy de Cúcuta, Colombia, nací el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
+### Soy de Cúcuta, Colombia, nací el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
 
 
 # Mi vision
@@ -67,5 +67,5 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
    <br>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-</div>
