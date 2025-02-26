@@ -68,6 +68,6 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
    <br>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&layout=compact)
 
 </div>
-
