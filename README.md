@@ -51,8 +51,10 @@ Si tu idea es tan genial como el cafe, ¡no dudes en enviarme un mensaje a:
 Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Discord! [Miguel Guerrero](https://discordapp.com/users/andres_4673) 🚀🛸
 
 
-#
-<div align="center" >
+<div align="center">
+
+### 📊 Mis estadísticas de GitHub
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true&theme=tokyonight"
@@ -60,15 +62,14 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true"
-    media="(prefers-color-dark: ), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true" />
 </picture>
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
-   <br>
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiguelAndresGuerrero)](https://github.com/MiguelAndresGuerrero/github-readme-stats)
-  
-</div>
+<img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&layout=compact&theme=radical">
+
+### ⏳ Tiempo de codificación en WakaTime
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=MiguelAndresGuerrero&theme=tokyonight)](https://wakatime.com/@MiguelAndresGuerrero)
 
 </div>
