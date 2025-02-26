@@ -57,9 +57,6 @@ Si tu idea es tan genial como el cafe, ¡no dudes en enviarme un mensaje a:
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Discord! [Miguel Guerrero](https://discordapp.com/users/andres_4673) 🚀🛸
 
-### 🐍 Animación de contribuciones  
-![Snake animation](https://github.com/MiguelAndresGuerrero/MiguelAndresGuerrero/blob/output/github-contribution-grid-snake.svg)
-
 
 <div align="center">
 
