@@ -68,7 +68,6 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
    <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true)
 
 </div>
 
