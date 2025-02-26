@@ -16,18 +16,7 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Subir la animación al repositorio
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # ✅ Se actualizó a v4
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
-          
-      - name: Subir a la rama "output"
-        uses: actions/checkout@v4
-
-      - name: Commit y push del archivo
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Actualizando culebrita"
-          git push origin output
