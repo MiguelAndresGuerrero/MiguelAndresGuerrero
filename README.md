@@ -4,11 +4,11 @@
 # Hola, soy Miguel Andrés Guerrero Martínez 👋
 ## 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
-### Soy de Cúcuta, Colombia, nací el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
+## Soy de Cúcuta, Colombia, nací el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
 
 
 # Mi vision
-### Dentro de 10 años, me visualizo como un desarrollador full-stack altamente capacitado, liderando proyectos complejos y aportando soluciones innovadoras en el ámbito tecnológico. Mi meta es llevar a cabo proyectos que anteriormente no pude realizar debido a la falta de conocimientos, pero con el avance en mis habilidades y experiencias, estare preparado para enfrentar esos desafíos. Aspiro a ser un profesional que contribuya activamente a la creación de nuevas tecnologías y herramientas que faciliten el desarrollo en diferentes industrias.
+### Aspiro a ser un desarrollador full-stack altamente capacitado, liderando proyectos innovadores y contribuyendo al avance tecnológico. Me apasiona la resolución de problemas y el aprendizaje continuo.
 
 #
 <div align="center" >
@@ -55,7 +55,7 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
 <div align="center" >
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
