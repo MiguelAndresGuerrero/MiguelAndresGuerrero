@@ -23,20 +23,27 @@
 ### Proyectos destacados
 - [**Rick and Morty**](https://miguelandresguerrero.github.io/RickAndMortyAPI/): Implementación de un portal animado con JavaScript y la API de Rick and Morty permitiendo la busqueda de los personajes de la serie y los episodios en los que aparecen
 - [**MovieAPI**](https://miguelandresguerrero.github.io/Movies_API/): Búsqueda interactiva de Peliculas usando una API
-
+- [**MenuAPI**](https://miguelandresguerrero.github.io/Menu-APIs/): Reconecta todas las APIS utilizadas para la realizacion de practicas en JavaScript
+- [**Proyecto**](https://github.com/Luis-Orlando-Henao-Bermon/PROYECTO-FILTRO_HenaoLuis_GuerreroMiguel): En este proyecto se demostro todas las habilidades aprendidas e incluyendo el trabajo en equipo reflejando las habilidades blandas al momento de trabajar en equipo
 
 
 #
-### Lenguajes 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/HTML5-FF5722?style=flat&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-007ACC?style=flat&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![JSON Badge](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🚀 Tecnologías y Herramientas
+
+#### 📌 Lenguajes de Programación  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+#### ⚙️ Frameworks y Librerías  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+
+#### 🗄️ Bases de Datos  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 #
 ### 🤝 Conéctate conmigo
