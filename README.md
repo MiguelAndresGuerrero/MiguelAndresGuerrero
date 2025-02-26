@@ -69,7 +69,4 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
 
 <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&layout=compact&theme=radical">
 
-### ⏳ Tiempo de codificación en WakaTime
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=MiguelAndresGuerrero&theme=tokyonight)](https://wakatime.com/@MiguelAndresGuerrero)
-
 </div>
