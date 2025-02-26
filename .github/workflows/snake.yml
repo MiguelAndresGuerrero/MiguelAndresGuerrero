@@ -16,7 +16,7 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Subir la animación al repositorio
-        uses: actions/upload-artifact@v4  # ✅ Se actualizó a v4
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
