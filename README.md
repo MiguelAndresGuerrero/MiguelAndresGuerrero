@@ -67,5 +67,8 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
    <br>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true)
+
+</div>
 
