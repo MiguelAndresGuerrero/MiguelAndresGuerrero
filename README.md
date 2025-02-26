@@ -2,9 +2,9 @@
 <h2 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
 
 # Hola, soy Miguel Andrés Guerrero Martínez 👋
-### 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
+## 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
-#### Soy de Cúcuta, Colombia, naci el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
+### Soy de Cúcuta, Colombia, nací el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
 
 
 # Mi vision
@@ -33,7 +33,10 @@
 ![CSS Badge](https://img.shields.io/badge/CSS3-007ACC?style=flat&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JSON Badge](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![Java]()
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #
 ### 🤝 Conéctate conmigo
