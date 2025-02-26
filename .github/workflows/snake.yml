@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Se ejecuta todos los días a medianoche
+  workflow_dispatch:  # Permite ejecutarlo manualmente
 
 jobs:
   generate:
@@ -12,11 +12,11 @@ jobs:
       - name: Generar la animación
         uses: Platane/snk@v3
         with:
-          github_user_name: MiguelAndresGuerrero
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Subir la animación al repositorio
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
