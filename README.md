@@ -62,9 +62,9 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
     srcset="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true"
     media="(prefers-color-dark: ), (prefers-color-scheme: no-preference)"
   />
-  <img   src="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelAndresGuerrero&show_icons=true" />
 </picture>
-   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
    <br>
 
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiguelAndresGuerrero)](https://github.com/MiguelAndresGuerrero/github-readme-stats)
