@@ -2,9 +2,9 @@
 <h2 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
 
 # Hola, soy Miguel Andrés Guerrero Martínez 👋
-## 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
+### 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
-### Soy de Cúcuta, Colombia, nací el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
+#### Soy de Cúcuta, Colombia, nací el 19 de junio de 2005. Desde una temprana edad, desarrolle un gran interés por el mundo de la tecnología, especialmente en el área de desarrollo web, Me motiva aprender constantemente nuevos lenguajes de programación, tecnologías y frameworks que me permitan evolucionar como programador. En 2023, me gradué del Colegio Francisco José de Caldas, y además cuento con una certificación técnica en mantenimiento de equipos de cómputo, lo que me ha permitido adquirir una base sólida en hardware y soporte técnico
 
 
 # Mi vision
@@ -76,6 +76,6 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
 
 <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&layout=compact&theme=radical">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/MiguelAndresGuerrero/MiguelAndresGuerrero/main/assets/github-contribution-snake.svg)
+![github-user-contribution (2)](https://github.com/user-attachments/assets/f3d18c3a-9932-4994-aa34-a0ecaf07bc81)
 
 </div>
