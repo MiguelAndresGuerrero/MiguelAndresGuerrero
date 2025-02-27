@@ -5,7 +5,7 @@
 ### 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
 ### 🎓 Titulos
-### Tecnico en mantenimiento de equipos de computo
+### Tecnico en mantenimiento de equipos de computo certificado por el SENA
 ### Bachiller tecnico certificado por la Institución Educativa Francisco Jose de Caldas en 2023
 
 # Mi vision
