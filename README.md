@@ -2,13 +2,13 @@
 <h2 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
 
 # Hola, soy Miguel Andrés Guerrero Martínez 👋
-## 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
+# 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
-### 🎓 Titulos
+## 🎓 Titulos
 ### Tecnico en mantenimiento de equipos de computo certificado por el SENA en el 2023
 ### Bachiller tecnico certificado por la Institución Educativa Francisco Jose de Caldas en el 2023
 
-# Mi vision
+## Mi vision
 ### Aspiro a ser un desarrollador full-stack altamente capacitado, liderando proyectos innovadores y contribuyendo al avance tecnológico. Me apasiona la resolución de problemas y el aprendizaje continuo.
 
 #
