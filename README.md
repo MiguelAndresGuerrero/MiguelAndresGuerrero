@@ -54,7 +54,6 @@
 </a>  
 Si tu idea es tan genial como el café, ¡no dudes en enviarme un mensaje! 😁
 
-
 <br>
 
 <a href="https://www.linkedin.com/in/miguel-guerrero-martinez-175845310/" target="_blank">
