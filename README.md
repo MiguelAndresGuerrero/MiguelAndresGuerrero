@@ -59,9 +59,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> ¡Estoy abierto a nuevas conexiones! Encuentra mi perfil en LinkedIn 🖊️
 
+<br>
 
-![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
-Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Discord! [Miguel Guerrero](https://discordapp.com/users/andres_4673) 🚀🛸
+<a href="https://discordapp.com/users/andres_4673" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Badge">
+</a>  
+Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Discord! 🚀🛸
 
 <div align="center">
 
