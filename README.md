@@ -77,6 +77,7 @@ Navegando por líneas de código y buenos momentos: ¡Únete a mi aventura en Di
 </picture>
 
 <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAndresGuerrero&layout=compact&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=MiguelAndresGuerrero&theme=juicyfresh&no-bg=true" />
 
 ![github-user-contribution (2)](https://github.com/user-attachments/assets/f3d18c3a-9932-4994-aa34-a0ecaf07bc81)
 
