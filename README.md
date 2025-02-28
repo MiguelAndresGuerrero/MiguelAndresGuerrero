@@ -49,10 +49,12 @@
 
 #
 ### 🤝 Conéctate conmigo
-<a href="Guerreromiguelmartinez@gmail.com.com" target="_blank">
+<a href="mailto:Guerreromiguelmartinez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
 </a> Si tu idea es tan genial como el cafe, ¡no dudes en enviarme un mensaje! 😁
+
 <br>
+
 <a href="https://www.linkedin.com/in/miguel-guerrero-martinez-175845310/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> ¡Estoy abierto a nuevas conexiones! Encuentra mi perfil en LinkedIn 🖊️
