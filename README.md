@@ -55,7 +55,7 @@ Si tu idea es tan genial como el cafe, ¡no dudes en enviarme un mensaje a:
 
 <a href="https://www.linkedin.com/in/miguel-guerrero-martinez-175845310/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</a> ¡Estoy abierto a nuevas conexiones! Encuentra mi perfil en LinkedIn 🖊️
 
 
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
