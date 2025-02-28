@@ -54,8 +54,7 @@ Si tu idea es tan genial como el cafe, ¡no dudes en enviarme un mensaje a:
 [Miguel Guerrero](mailto:Guerreromiguelmartinez@gmail.com.com)!
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-¡Estoy abierto a nuevas conexiones! Encuentra mi perfil en LinkedIn: [Miguel Guerrero](https://www.linkedin.com/in/andres-guerrero-175845310/)
-<a href="https://www.linkedin.com/in/andres-guerrero-175845310/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+¡Estoy abierto a nuevas conexiones! Encuentra mi perfil en LinkedIn: <a href="https://www.linkedin.com/in/andres-guerrero-175845310/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
