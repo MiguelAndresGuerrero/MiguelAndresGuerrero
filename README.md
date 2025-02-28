@@ -49,9 +49,11 @@
 
 #
 ### 🤝 Conéctate conmigo
-<a href="mailto: Guerreromiguelmartinez@gmail.com">
+<a href="mailto:Guerreromiguelmartinez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-</a> Si tu idea es tan genial como el cafe, ¡no dudes en enviarme un mensaje! 😁
+</a>  
+Si tu idea es tan genial como el café, ¡no dudes en enviarme un mensaje! 😁
+
 
 <br>
 
