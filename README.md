@@ -26,8 +26,8 @@
 - [**Rick and Morty**](https://miguelandresguerrero.github.io/RickAndMortyAPI/): Implementación de un portal animado con JavaScript y la API de Rick and Morty permitiendo la busqueda de los personajes de la serie y los episodios en los que aparecen
 - [**MovieAPI**](https://miguelandresguerrero.github.io/Movies_API/): Búsqueda interactiva de Peliculas usando una API
 - [**MenuAPI**](https://miguelandresguerrero.github.io/Menu-APIs/): Reconecta todas las APIS utilizadas para la realizacion de practicas en JavaScript
-- [**Proyecto**](https://github.com/Luis-Orlando-Henao-Bermon/PROYECTO-FILTRO_HenaoLuis_GuerreroMiguel): En este proyecto se demostro todas las habilidades aprendidas e incluyendo el trabajo en equipo reflejando las habilidades blandas al momento de trabajar en equipo
-- [**Portafolio**](https://my-folder-bkac.vercel.app/)
+- [**Proyecto HTML-CSS**](https://github.com/Luis-Orlando-Henao-Bermon/PROYECTO-FILTRO_HenaoLuis_GuerreroMiguel): En este proyecto se demostro todas las habilidades aprendidas e incluyendo el trabajo en equipo reflejando las habilidades blandas al momento de trabajar en equipo
+- [**Portafolio**](https://my-folder-bkac.vercel.app/): En este proyecto se creo una pagina web, organizando habilidades, proyectos y traduccion de ingles a español facilitando la comunicacion
 
 
 #
