@@ -15,7 +15,7 @@
 #
 <div align="center" >
 
-> "Primero resuelve el problema. Luego, escribe el código."
+> "Primero resuelve el problema. Luego, escribe el código." <br>
 — John Johnson
 
 ![Coding Fun](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
