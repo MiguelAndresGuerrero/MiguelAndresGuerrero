@@ -10,12 +10,13 @@
 ### Programador Full-Stack Junior
 
 ## Mi vision
-### Aspiro a ser un desarrollador full-stack altamente capacitado, liderando proyectos innovadores y contribuyendo al avance tecnológico. Me apasiona la resolución de problemas y el aprendizaje continuo.
+### Liderar proyectos innovadores y contribuir al avance tecnológico. Me apasiona la resolución de problemas y el aprendizaje continuo.
 
 #
 <div align="center" >
 
-> "El código más poderoso no es el que nunca falla, sino el que siempre está dispuesto a mejorar. Cada bug es solo una oportunidad para optimizar tu camino al éxito"
+> "Primero resuelve el problema. Luego, escribe el código."
+— John Johnson
 
 ![Coding Fun](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
