@@ -1,7 +1,7 @@
 <div style="font-family: Arial, Helvetica;">
 <h2 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
 
-## Hola, soy Miguel Andrés Guerrero Martínez 👋
+### Hola, soy Miguel Andrés Guerrero Martínez 👋
 ### 💻 Programador Full-Stack | 🚀 Apasionado por la tecnología
 
 ## 🎓 Titulos
